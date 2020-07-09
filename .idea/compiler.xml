@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="_01_First_JDBC" />
+        <module name="_02_JDBC_login" />
+        <module name="_03_JDBC_PreparedStatement" />
+        <module name="_04_JDBC_Batch" />
+        <module name="_05_JDBC_transcation" />
+        <module name="_06_JDBC_encapsulation" />
+        <module name="_07_JDBC_encapsulation_apply" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01_firstJDBC" target="1.7" />
+      <module name="_01_First_JDBC" target="1.5" />
+      <module name="_02_JDBC_login" target="1.5" />
+      <module name="_03_JDBC_PreparedStatement" target="1.5" />
+      <module name="_04_JDBC_Batch" target="1.5" />
+      <module name="_05_JDBC_transcation" target="1.5" />
+      <module name="_06_JDBC_encapsulation" target="1.5" />
+      <module name="_07_JDBC_encapsulation_apply" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
